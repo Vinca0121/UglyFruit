@@ -1,0 +1,2481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &658282781118400764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 658282781118400763}
+  m_Layer: 0
+  m_Name: OnionLevel3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &658282781118400763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658282781118400764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 658282782106486679}
+  - {fileID: 658282782685956123}
+  - {fileID: 658282780655686466}
+  - {fileID: 658282782430485246}
+  - {fileID: 658282781288084551}
+  - {fileID: 658282782192986656}
+  - {fileID: 658282781234917785}
+  - {fileID: 658282781154552682}
+  - {fileID: 658282781209985942}
+  - {fileID: 658282782220457259}
+  - {fileID: 658282781543941168}
+  - {fileID: 658282781929683043}
+  - {fileID: 658282781718327889}
+  - {fileID: 658282781995686055}
+  - {fileID: 658282780856502271}
+  - {fileID: 658282782273879830}
+  - {fileID: 658282781913539437}
+  - {fileID: 658282780828723673}
+  - {fileID: 658282781223316999}
+  - {fileID: 658282780998634136}
+  - {fileID: 658282781477737422}
+  - {fileID: 658282782571967274}
+  - {fileID: 658282780925243098}
+  - {fileID: 658282780819191154}
+  - {fileID: 658282782557844536}
+  - {fileID: 658282780912144235}
+  - {fileID: 658282781721165668}
+  - {fileID: 658282781419354663}
+  - {fileID: 658282781150400389}
+  - {fileID: 658282780965628076}
+  - {fileID: 658282781191540358}
+  - {fileID: 658282782282042193}
+  - {fileID: 658282782329911333}
+  - {fileID: 658282782315256265}
+  - {fileID: 658282782617149227}
+  - {fileID: 658282781403687601}
+  - {fileID: 658282782388304216}
+  - {fileID: 658282781241707798}
+  - {fileID: 658282781020471983}
+  - {fileID: 658282781462462167}
+  - {fileID: 658282782589100743}
+  - {fileID: 658282782449342487}
+  - {fileID: 658282781654468727}
+  - {fileID: 658282780654683714}
+  - {fileID: 658282782162514526}
+  - {fileID: 658282782642433542}
+  - {fileID: 658282781907159954}
+  - {fileID: 658282781702908918}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &658282780654502998
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (316)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780654683714 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780654502998}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780655604054
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (275)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 83.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780655686466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780655604054}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780819273574
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (296)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780819191154 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780819273574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780828609485
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (290)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780828723673 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780828609485}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780856387051
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (287)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 83.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780856502271 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780856387051}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780911766911
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (298)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780912144235 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780911766911}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780924898510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (295)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780925243098 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780924898510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780965251768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (302)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780965628076 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780965251768}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282780998289548
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (292)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282780998634136 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282780998289548}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781020618939
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (311)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 104.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781020471983 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781020618939}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781150743953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (301)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781150400389 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781150743953}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781154994558
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (280)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781154552682 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781154994558}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781191392402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (303)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781191540358 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781191392402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781209641346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (281)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 83.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781209985942 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781209641346}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781223463955
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (291)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781223316999 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781223463955}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781235065741
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (279)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781234917785 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781235065741}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781241888514
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (310)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781241707798 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781241888514}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781287675475
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (277)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781288084551 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781287675475}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781403801765
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (308)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 104.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781403687601 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781403801765}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781419730995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (300)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781419354663 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781419730995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781462609091
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (312)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 98.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781462462167 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781462609091}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781477589466
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (293)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 89.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781477737422 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781477589466}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781543499300
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (283)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 83.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781543941168 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781543499300}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781654354531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (315)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 107.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781654468727 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781654354531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781703317986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (320)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781702908918 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781703317986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781718442053
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (285)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781718327889 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781718442053}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781720722800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (299)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 89.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781721165668 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781720722800}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781907077510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (319)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 107.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781907159954 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781907077510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781913162105
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (289)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 89.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781913539437 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781913162105}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781929536119
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (284)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781929683043 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781929536119}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282781995768499
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (286)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282781995686055 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282781995768499}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782106076547
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (273)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782106486679 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782106076547}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782162399306
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (317)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 98.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782162514526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782162399306}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782192609332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (278)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782192986656 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782192609332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782220834623
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (282)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782220457259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782220834623}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782274256130
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (288)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782273879830 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782274256130}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782281926981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (304)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 89.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782282042193 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782281926981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782315699165
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (306)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 104.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782315256265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782315699165}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782329502257
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (305)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782329911333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782329502257}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782388419404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (309)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 104.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782388304216 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782388419404}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782430107882
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (276)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782430485246 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782430107882}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782448998915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (314)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 98.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782449342487 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782448998915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782557697580
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (297)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782557844536 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782557697580}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782571884862
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (294)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -75.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782571967274 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782571884862}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782589214931
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (313)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 107.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782589100743 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782589214931}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782616739135
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (307)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 107.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782617149227 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782616739135}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782642842642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (318)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 98.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782642433542 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782642842642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &658282782686333455
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 658282781118400763}
+    m_Modifications:
+    - target: {fileID: 115640, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_OnionPlantRedLvl3_PF (274)
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+--- !u!4 &658282782685956123 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 442900, guid: 8560cbd9b85afad4ea0e02627f9183f5, type: 3}
+  m_PrefabInstance: {fileID: 658282782686333455}
+  m_PrefabAsset: {fileID: 0}

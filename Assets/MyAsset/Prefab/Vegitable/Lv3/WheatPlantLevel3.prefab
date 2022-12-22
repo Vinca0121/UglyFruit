@@ -1,0 +1,2481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4281820688917702720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4281820688917702751}
+  m_Layer: 0
+  m_Name: WheatPlantLevel3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4281820688917702751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4281820688917702720}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4281820689759989029}
+  - {fileID: 4281820690172712488}
+  - {fileID: 4281820689073268688}
+  - {fileID: 4281820689310867925}
+  - {fileID: 4281820689674808067}
+  - {fileID: 4281820690301302187}
+  - {fileID: 4281820690591977702}
+  - {fileID: 4281820690936913862}
+  - {fileID: 4281820690370750302}
+  - {fileID: 4281820690286794746}
+  - {fileID: 4281820689654854745}
+  - {fileID: 4281820690330444196}
+  - {fileID: 4281820689871208051}
+  - {fileID: 4281820690729496348}
+  - {fileID: 4281820689546826793}
+  - {fileID: 4281820689422082431}
+  - {fileID: 4281820688922946764}
+  - {fileID: 4281820690520694008}
+  - {fileID: 4281820690601007046}
+  - {fileID: 4281820690709872613}
+  - {fileID: 4281820690458706418}
+  - {fileID: 4281820690573475711}
+  - {fileID: 4281820690690416928}
+  - {fileID: 4281820690466050506}
+  - {fileID: 4281820689412021260}
+  - {fileID: 4281820689132264914}
+  - {fileID: 4281820690702855248}
+  - {fileID: 4281820689118833722}
+  - {fileID: 4281820690959359307}
+  - {fileID: 4281820690656326524}
+  - {fileID: 4281820690459979303}
+  - {fileID: 4281820689925564753}
+  - {fileID: 4281820689114321324}
+  - {fileID: 4281820690932414354}
+  - {fileID: 4281820689485659211}
+  - {fileID: 4281820690970602360}
+  - {fileID: 4281820689464053555}
+  - {fileID: 4281820690695559650}
+  - {fileID: 4281820688885607170}
+  - {fileID: 4281820690540450630}
+  - {fileID: 4281820690808437056}
+  - {fileID: 4281820690528340284}
+  - {fileID: 4281820690906164429}
+  - {fileID: 4281820690813824559}
+  - {fileID: 4281820689482113038}
+  - {fileID: 4281820688954655253}
+  - {fileID: 4281820689236804768}
+  - {fileID: 4281820690016080806}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4281820688886002050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.320007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820688885607170 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820688886002050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820688923080268
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.820007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820688922946764 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820688923080268}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820688954267797
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.420013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820688954655253 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820688954267797}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689073667408
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.6799927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689073268688 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689073667408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689114450732
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.420013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689114321324 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689114450732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689119229626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689118833722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689119229626}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689132128082
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689132264914 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689132128082}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689237204512
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689236804768 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689237204512}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689311005525
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689310867925 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689311005525}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689412146828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.820007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689412021260 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689412146828}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689422220287
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0200195
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689422082431 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689422220287}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689463924147
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 28.920013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689464053555 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689463924147}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689481726606
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 28.920013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689482113038 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689481726606}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689485522635
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.420013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689485659211 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689485522635}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689546956457
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0200195
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689546826793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689546956457}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689654984409
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8200073
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689654854745 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689654984409}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689674678659
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8200073
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689674808067 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689674678659}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689759598501
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.6799927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689759989029 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689759598501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689871594739
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8200073
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689871208051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689871594739}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820689925174225
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820689925564753 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820689925174225}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690016209190
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690016080806 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690016209190}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690173103272
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8200073
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690172712488 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690173103272}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690286398842
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690286794746 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690286398842}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690301431595
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690301302187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690301431595}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690330843940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.6799927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690330444196 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690330843940}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690370362846
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0200195
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690370750302 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690370362846}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690458581874
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690458706418 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690458581874}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690460374183
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690459979303 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690460374183}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690465917770
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.820007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690466050506 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690465917770}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690520295032
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.820007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690520694008 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690520295032}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690528211900
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.320007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690528340284 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690528211900}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690540317126
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690540450630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690540317126}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690573338111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690573475711 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690573338111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690591582822
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690591977702 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690591582822}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690601397574
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690601007046 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690601397574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690656193020
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690656326524 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690656193020}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690690292640
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690690416928 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690690292640}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690695684962
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.320007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690695559650 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690695684962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690702989008
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690702855248 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690702989008}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690709734757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690709872613 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690709734757}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690729891228
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.6799927
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690729496348 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690729891228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690808300480
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690808437056 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690808300480}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690814219439
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.420013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690813824559 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690814219439}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690906560077
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 28.920013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -77.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690906164429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690906560077}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690932804882
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 28.920013
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690932414354 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690932804882}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690936513862
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0200195
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -80.170006
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690936913862 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690936513862}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690959222731
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.02002
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690959359307 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690959222731}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4281820690970997240
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4281820688917702751}
+    m_Modifications:
+    - target: {fileID: 100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_WheatPlantLevel3 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.320007
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.9899998
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -74.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+--- !u!4 &4281820690970602360 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: bb12a52c479d2394d978d2d7df069ae9, type: 3}
+  m_PrefabInstance: {fileID: 4281820690970997240}
+  m_PrefabAsset: {fileID: 0}

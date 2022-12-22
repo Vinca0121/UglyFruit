@@ -1,0 +1,2477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &321315326853100248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 321315326853100249}
+  m_Layer: 0
+  m_Name: PotatoLevel3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &321315326853100249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 321315326853100248}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 321315325377994680}
+  - {fileID: 321315327217755765}
+  - {fileID: 321315325436772967}
+  - {fileID: 321315326065246102}
+  - {fileID: 321315325781472558}
+  - {fileID: 321315325937851684}
+  - {fileID: 321315326826313333}
+  - {fileID: 321315326807309219}
+  - {fileID: 321315326512833976}
+  - {fileID: 321315325765055106}
+  - {fileID: 321315326326642357}
+  - {fileID: 321315326364738447}
+  - {fileID: 321315325979004876}
+  - {fileID: 321315327031430873}
+  - {fileID: 321315326248174488}
+  - {fileID: 321315326155954186}
+  - {fileID: 321315327310520677}
+  - {fileID: 321315325969052052}
+  - {fileID: 321315325973822209}
+  - {fileID: 321315326824491485}
+  - {fileID: 321315326303770394}
+  - {fileID: 321315326234901522}
+  - {fileID: 321315327108834692}
+  - {fileID: 321315327049912570}
+  - {fileID: 321315325356872621}
+  - {fileID: 321315327219325946}
+  - {fileID: 321315327153635384}
+  - {fileID: 321315327405057449}
+  - {fileID: 321315325485165771}
+  - {fileID: 321315327182481213}
+  - {fileID: 321315326193939530}
+  - {fileID: 321315325739000951}
+  - {fileID: 321315325707088186}
+  - {fileID: 321315326418205487}
+  - {fileID: 321315325797862956}
+  - {fileID: 321315326248081380}
+  - {fileID: 321315326797865069}
+  - {fileID: 321315325809674395}
+  - {fileID: 321315325773466250}
+  - {fileID: 321315327051948173}
+  - {fileID: 321315326320011511}
+  - {fileID: 321315326487226919}
+  - {fileID: 321315326372867390}
+  - {fileID: 321315327139709024}
+  - {fileID: 321315326089400899}
+  - {fileID: 321315327251691212}
+  - {fileID: 321315325485313556}
+  - {fileID: 321315325407942818}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &321315325357283845
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325356872621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325357283845}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325378106896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325377994680 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325378106896}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325407793418
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325407942818 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325407793418}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325436627919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325436772967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325436627919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325484787043
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325485165771 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325484787043}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325485688764
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325485313556 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325485688764}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325707466898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325707088186 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325707466898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325738593759
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325739000951 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325738593759}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325764909866
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325765055106 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325764909866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325773316898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325773466250 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325773316898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325781064838
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325781472558 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325781064838}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325798008708
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325797862956 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325798008708}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325809262899
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325809674395 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325809262899}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325937996940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325937851684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325937996940}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325968676924
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325969052052 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325968676924}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325973410473
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325973822209 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325973410473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315325978625636
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315325979004876 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315325978625636}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326065620542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326065246102 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326065620542}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326089550827
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326089400899 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326089550827}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326156100002
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326155954186 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326156100002}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326193827298
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326193939530 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326193827298}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326234523066
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326234901522 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326234523066}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326247673420
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326248081380 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326247673420}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326248553008
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326248174488 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326248553008}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326304181938
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326303770394 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326304181938}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326320386399
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326320011511 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326320386399}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326326267677
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326326642357 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326326267677}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326364854823
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326364738447 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326364854823}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326372455574
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326372867390 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326372455574}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326418350727
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326418205487 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326418350727}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326487602063
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326487226919 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326487602063}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326512458768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326512833976 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326512458768}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326797720005
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326797865069 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326797720005}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326807159307
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326807309219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326807159307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326824636533
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326824491485 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326824636533}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315326825906141
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315326826313333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315326825906141}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327031805809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327031430873 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327031805809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327050029394
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327049912570 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327050029394}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327052327205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327051948173 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327052327205}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327108688940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327108834692 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327108688940}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327139596744
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327139709024 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327139596744}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327154047376
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 41.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327153635384 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327154047376}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327182892693
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327182481213 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327182892693}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327217872861
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 44.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327217755765 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327217872861}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327219438162
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327219325946 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327219438162}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327252103012
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 47.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327251691212 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327252103012}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327310637261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327310520677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327310637261}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &321315327404911617
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 321315326853100249}
+    m_Modifications:
+    - target: {fileID: 194504, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_PotatoPlantLvl3_PF (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.7700005
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 39.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.1305278
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.99144465
+      objectReference: {fileID: 0}
+    - target: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+--- !u!4 &321315327405057449 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 412072, guid: cf7a2ad09856f904aa532229c5670171, type: 3}
+  m_PrefabInstance: {fileID: 321315327404911617}
+  m_PrefabAsset: {fileID: 0}

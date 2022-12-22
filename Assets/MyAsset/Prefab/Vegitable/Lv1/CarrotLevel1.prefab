@@ -1,0 +1,2481 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6681958533332994763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6681958533332994760}
+  m_Layer: 0
+  m_Name: CarrotLevel1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6681958533332994760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6681958533332994763}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6681958533465295077}
+  - {fileID: 6681958534047381856}
+  - {fileID: 6681958533601161134}
+  - {fileID: 6681958533048168557}
+  - {fileID: 6681958533436232916}
+  - {fileID: 6681958532892384793}
+  - {fileID: 6681958533518820440}
+  - {fileID: 6681958532872682053}
+  - {fileID: 6681958532900873814}
+  - {fileID: 6681958534415688105}
+  - {fileID: 6681958533907877280}
+  - {fileID: 6681958534581479011}
+  - {fileID: 6681958532545437905}
+  - {fileID: 6681958532998410095}
+  - {fileID: 6681958533191881702}
+  - {fileID: 6681958532623999216}
+  - {fileID: 6681958533587244822}
+  - {fileID: 6681958533542812520}
+  - {fileID: 6681958533824365527}
+  - {fileID: 6681958534340483118}
+  - {fileID: 6681958534179923911}
+  - {fileID: 6681958534090428369}
+  - {fileID: 6681958533908118438}
+  - {fileID: 6681958532791998796}
+  - {fileID: 6681958532618131147}
+  - {fileID: 6681958534113716105}
+  - {fileID: 6681958533348261430}
+  - {fileID: 6681958533550379178}
+  - {fileID: 6681958533600403201}
+  - {fileID: 6681958533688051477}
+  - {fileID: 6681958532807578993}
+  - {fileID: 6681958533354298313}
+  - {fileID: 6681958534250020416}
+  - {fileID: 6681958532767017931}
+  - {fileID: 6681958534114205988}
+  - {fileID: 6681958534539910585}
+  - {fileID: 6681958534310476839}
+  - {fileID: 6681958534509261583}
+  - {fileID: 6681958533964012360}
+  - {fileID: 6681958534683552530}
+  - {fileID: 6681958534527100191}
+  - {fileID: 6681958533278485455}
+  - {fileID: 6681958533111899607}
+  - {fileID: 6681958532671630614}
+  - {fileID: 6681958534217671120}
+  - {fileID: 6681958534312804571}
+  - {fileID: 6681958533323153266}
+  - {fileID: 6681958532637862845}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6681958532545545103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532545437905 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532545545103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532618548629
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 130.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532618131147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532618548629}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532624401326
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 113.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532623999216 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532624401326}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532637739235
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532637862845 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532637739235}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532671999560
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 139.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532671630614 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532671999560}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532766599317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532767017931 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532766599317}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532791892498
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 130.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532791998796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532791892498}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532807702063
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532807578993 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532807702063}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532872558875
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 118.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532872682053 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532872558875}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532892769607
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532892384793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532892769607}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532900979976
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 118.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532900873814 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532900979976}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958532998548529
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 113.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958532998410095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958532998548529}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533048537907
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 113.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533048168557 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533048537907}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533111481993
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533111899607 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533111481993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533192003768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533191881702 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533192003768}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533278345361
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533278485455 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533278345361}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533323013164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 139.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533323153266 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533323013164}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533348105576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533348261430 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533348105576}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533354715287
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533354298313 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533354715287}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533436356490
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533436232916 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533436356490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533464894395
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533465295077 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533464894395}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533518452486
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533518820440 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533518452486}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533542705206
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533542812520 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533542705206}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533550797812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533550379178 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533550797812}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533587399752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125.020004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533587244822 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533587399752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533600263263
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125.020004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533600403201 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533600263263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533600742640
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 113.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533601161134 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533600742640}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533687911499
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125.020004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533688051477 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533687911499}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533824225417
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125.020004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533824365527 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533824225417}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533908257016
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 130.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533908118438 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533908257016}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533908295422
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 118.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533907877280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533908295422}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958533964429334
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 139.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958533964012360 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958533964429334}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534047783486
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 121.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534047381856 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534047783486}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534090845327
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 130.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534090428369 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534090845327}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534113559767
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534113716105 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534113559767}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534114050682
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534114205988 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534114050682}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534179538073
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534179923911 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534179538073}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534217286286
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 139.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534217671120 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534217286286}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534249897246
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534250020416 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534249897246}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534310092665
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534310476839 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534310092665}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534312928133
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534312804571 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534312928133}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534340901744
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534340483118 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534340901744}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534415565559
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 118.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -104.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534415688105 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534415565559}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534509629521
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -101.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534509261583 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534509629521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534527501889
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534527100191 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534527501889}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534539804391
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534539910585 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534539804391}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534581060925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 115.82001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -99.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534581479011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534581060925}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6681958534683658316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6681958533332994760}
+    m_Modifications:
+    - target: {fileID: 126218, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_CarrotPlantLvl1_PF (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.709999
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -106.770004
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+--- !u!4 &6681958534683552530 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 418654, guid: cf679b78f43eedf4e9cb3c6367a89169, type: 3}
+  m_PrefabInstance: {fileID: 6681958534683658316}
+  m_PrefabAsset: {fileID: 0}

@@ -1,6 +1,6 @@
 //----------------------------------------------
 //            3rd Person Camera
-// Copyright © 2015-2020 Thomas Enzenebner
+// Copyright ?2015-2020 Thomas Enzenebner
 //            Version 1.0.7.2
 //         t.enzenebner@gmail.com
 //----------------------------------------------

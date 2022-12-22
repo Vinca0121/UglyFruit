@@ -1,0 +1,3389 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6557366080788498136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6557366080788498137}
+  m_Layer: 0
+  m_Name: TomatoLevel3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6557366080788498137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080788498136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6557366080114916466}
+  - {fileID: 6557366081664946099}
+  - {fileID: 6557366080674406205}
+  - {fileID: 6557366080105654525}
+  - {fileID: 6557366080823346296}
+  - {fileID: 6557366081306017421}
+  - {fileID: 6557366080012284265}
+  - {fileID: 6557366081261244556}
+  - {fileID: 6557366081224886009}
+  - {fileID: 6557366079925609887}
+  - {fileID: 6557366080054897251}
+  - {fileID: 6557366081427137694}
+  - {fileID: 6557366080844921716}
+  - {fileID: 6557366081247164898}
+  - {fileID: 6557366081506740187}
+  - {fileID: 6557366080034218008}
+  - {fileID: 6557366080184496567}
+  - {fileID: 6557366079676048581}
+  - {fileID: 6557366081434893998}
+  - {fileID: 6557366081382254786}
+  - {fileID: 6557366080293846538}
+  - {fileID: 6557366080958867983}
+  - {fileID: 6557366080521109159}
+  - {fileID: 6557366081014970131}
+  - {fileID: 6557366081288775937}
+  - {fileID: 6557366081647521691}
+  - {fileID: 6557366079975971197}
+  - {fileID: 6557366081442088921}
+  - {fileID: 6557366080475445048}
+  - {fileID: 6557366081543763171}
+  - {fileID: 6557366080155612930}
+  - {fileID: 6557366080243788941}
+  - {fileID: 6557366081662058971}
+  - {fileID: 6557366081331983598}
+  - {fileID: 6557366079704199960}
+  - {fileID: 6557366080065086870}
+  - {fileID: 6557366079995152129}
+  - {fileID: 6557366080495459481}
+  - {fileID: 6557366079710324701}
+  - {fileID: 6557366081380901309}
+  - {fileID: 6557366080826225253}
+  - {fileID: 6557366080220804928}
+  - {fileID: 6557366080086134361}
+  - {fileID: 6557366081012818706}
+  - {fileID: 6557366081777154079}
+  - {fileID: 6557366081451839151}
+  - {fileID: 6557366079753088412}
+  - {fileID: 6557366080248358011}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6557366079676447531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 124.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366079676048581 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079676447531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366079676399037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079676447531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079778529605
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079676399037}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366079703805174
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 143.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366079703820896 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079703805174}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079857391002
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079703820896}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366079704199960 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079703805174}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366079710197811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366079710281381 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079710197811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079933627316
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079710281381}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366079710324701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079710197811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366079753482866
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366079753088412 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079753482866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366079753499876 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079753482866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079995324682
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079753499876}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366079926008433
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366079925609887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079926008433}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366079925959911 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079926008433}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079871329504
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079925959911}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366079976359571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 124.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366079975971197 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079976359571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366079976243205 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079976359571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080192054899
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079976243205}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366079994763503
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366079994814073 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079994763503}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366081072739383
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366079994814073}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366079995152129 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366079994763503}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080012414599
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080012284265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080012414599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080012298257 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080012414599}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366081338496607
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080012298257}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080034357238
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 112.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080034218008 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080034357238}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080034404704 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080034357238}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080735445112
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080034404704}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080054506893
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080054620955 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080054506893}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080152995577
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080054620955}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080054897251 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080054506893}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080065485432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080065086870 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080065485432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080065404142 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080065485432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080380271186
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080065404142}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080086266295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080086134361 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080086266295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080086284065 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080086266295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080928595199
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080086284065}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080105527059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080105574789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080105527059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080791966576
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080105574789}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080105654525 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080105527059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080115303324
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 112.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080114916466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080115303324}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080115189002 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080115303324}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080786608975
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080115189002}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080155216108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080155233914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080155216108}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080238312584
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080155233914}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080155612930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080155216108}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080184102489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080184019151 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080184102489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080782432860
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080184019151}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080184496567 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080184102489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080221194414
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080220804928 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080221194414}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080221113912 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080221194414}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080244542431
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080221113912}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080244183907
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080243788941 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080244183907}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080244266485 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080244183907}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080110290405
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080244266485}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080247970709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080248085763 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080247970709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366081333362710
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080248085763}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080248358011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080247970709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080293708260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080293824370 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080293708260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080470435789
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080293824370}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080293846538 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080293708260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080475048150
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080475033152 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080475048150}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080131756779
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080475033152}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080475445048 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080475048150}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080495846263
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080495459481 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080495846263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080495896033 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080495846263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366081050971411
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080495896033}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080520708425
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080520595423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080520708425}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080042741013
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080520595423}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080521109159 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080520708425}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080674529491
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080674406205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080674529491}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080674514501 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080674529491}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080166765067
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080674514501}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080823483286
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366080823346296 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080823483286}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366080823368960 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080823483286}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079860293584
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080823368960}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366080825830795
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 143.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080825748253 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080825830795}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080633626239
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080825748253}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080826225253 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080825830795}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080844784794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080844800524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080844784794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079927413759
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080844800524}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080844921716 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080844784794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366080958477793
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 124.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366080958395255 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080958477793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080600439042
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366080958395255}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366080958867983 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366080958477793}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081012432124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 143.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081012447850 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081012432124}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079835431273
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081012447850}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081012818706 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081012432124}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081014573309
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081014492779 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081014573309}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080000574978
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081014492779}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081014970131 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081014573309}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081225021719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 112.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081224886009 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081225021719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081225039745 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081225021719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080316460646
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081225039745}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081246766604
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081246814362 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081246766604}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366081159944309
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081246814362}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081247164898 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081246766604}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081261113186
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 112.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081261029876 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081261113186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080885703098
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081261029876}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081261244556 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081261113186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081289172719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081288775937 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081289172719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081289089145 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081289172719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080052752398
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081289089145}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081306403171
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081306017421 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081306403171}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081306454005 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081306403171}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080157497276
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081306454005}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081331849984
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081331867030 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081331849984}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079793605543
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081331867030}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081331983598 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081331849984}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081380515411
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 143.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081380464837 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081380515411}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080859408261
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081380464837}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081380901309 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081380515411}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081382127404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081382240698 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081382127404}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079857257968
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081382240698}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081382254786 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081382127404}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081427536752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081427137694 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081427536752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081427553766 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081427536752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080759034053
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081427553766}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081434493248
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081434478550 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081434493248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079664652568
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081434478550}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081434893998 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081434493248}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081441962039
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 124.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081441947297 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081441962039}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079693216591
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081441947297}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081442088921 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081441962039}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081452233025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081451839151 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081452233025}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081452120023 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081452233025}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080965679354
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081452120023}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081506351157
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081506270883 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081506351157}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080734601592
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081506270883}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081506740187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081506351157}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081543629581
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081543712155 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081543629581}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080670467008
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081543712155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081543763171 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081543629581}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081647652981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081647521691 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081647652981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081647572707 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081647652981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080312750733
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081647572707}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081662459445
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!4 &6557366081662058971 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081662459445}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6557366081662376099 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081662459445}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080477549090
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081662376099}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!1001 &6557366081664815197
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.229996
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081664734923 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081664815197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366080855314085
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081664734923}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081664946099 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081664815197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6557366081777018865
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6557366080788498137}
+    m_Modifications:
+    - target: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_TomatoPlantLvl3_PF (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0999994
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000002682209
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+--- !u!1 &6557366081776935271 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 116374, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081777018865}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6557366079704748082
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6557366081776935271}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 754e0ee8af8e15846aba92666a55a6d8, type: 3}
+--- !u!4 &6557366081777154079 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 401390, guid: 8840615f040ccd74a8834d658c66107f, type: 3}
+  m_PrefabInstance: {fileID: 6557366081777018865}
+  m_PrefabAsset: {fileID: 0}

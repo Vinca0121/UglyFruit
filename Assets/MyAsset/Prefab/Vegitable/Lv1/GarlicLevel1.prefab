@@ -1,0 +1,2477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8767424721725717738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8767424721725717737}
+  m_Layer: 0
+  m_Name: GarlicLevel1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8767424721725717737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8767424721725717738}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8767424721588811988}
+  - {fileID: 8767424722352114571}
+  - {fileID: 8767424721216405984}
+  - {fileID: 8767424723141822894}
+  - {fileID: 8767424722253605932}
+  - {fileID: 8767424721812207818}
+  - {fileID: 8767424722300565526}
+  - {fileID: 8767424722286392118}
+  - {fileID: 8767424722929761458}
+  - {fileID: 8767424722243812067}
+  - {fileID: 8767424722844116486}
+  - {fileID: 8767424721702957603}
+  - {fileID: 8767424722363784862}
+  - {fileID: 8767424723235547460}
+  - {fileID: 8767424723075460192}
+  - {fileID: 8767424722030812082}
+  - {fileID: 8767424722687006634}
+  - {fileID: 8767424723073757500}
+  - {fileID: 8767424721260554105}
+  - {fileID: 8767424722776875018}
+  - {fileID: 8767424721400871802}
+  - {fileID: 8767424721715931208}
+  - {fileID: 8767424721956349673}
+  - {fileID: 8767424721793693285}
+  - {fileID: 8767424722172542292}
+  - {fileID: 8767424723064685875}
+  - {fileID: 8767424721166922316}
+  - {fileID: 8767424721962247895}
+  - {fileID: 8767424722094421243}
+  - {fileID: 8767424721379664352}
+  - {fileID: 8767424723156636216}
+  - {fileID: 8767424722019649609}
+  - {fileID: 8767424723040071924}
+  - {fileID: 8767424722201101215}
+  - {fileID: 8767424721577833731}
+  - {fileID: 8767424722519327932}
+  - {fileID: 8767424721155196265}
+  - {fileID: 8767424721846830651}
+  - {fileID: 8767424721839895547}
+  - {fileID: 8767424721268436429}
+  - {fileID: 8767424721224567828}
+  - {fileID: 8767424722528688437}
+  - {fileID: 8767424721518306545}
+  - {fileID: 8767424723030370967}
+  - {fileID: 8767424722417303970}
+  - {fileID: 8767424721251360162}
+  - {fileID: 8767424722543761245}
+  - {fileID: 8767424722549084932}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8767424721154751913
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721155196265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721154751913}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721167239820
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721166922316 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721167239820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721216223520
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721216405984 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721216223520}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721224905940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721224567828 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721224905940}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721251558754
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721251360162 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721251558754}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721260224441
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721260554105 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721260224441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721268102413
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721268436429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721268102413}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721380120864
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721379664352 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721380120864}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721400923066
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721400871802 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721400923066}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721518369841
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721518306545 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721518369841}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721577364931
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721577833731 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721577364931}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721588338708
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721588811988 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721588338708}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721702750947
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721702957603 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721702750947}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721715990664
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721715931208 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721715990664}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721793486501
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721793693285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721793486501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721812652042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721812207818 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721812652042}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721839557435
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721839895547 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721839557435}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721847303931
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721846830651 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721847303931}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721955888681
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721956349673 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721955888681}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424721962573335
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424721962247895 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424721962573335}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722019463305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722019649609 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722019463305}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722030355314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722030812082 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722030355314}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722094607419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722094421243 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722094607419}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722172724628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722172542292 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722172724628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722200787807
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722201101215 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722200787807}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722244125219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722243812067 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722244125219}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722253141228
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722253605932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722253141228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722286447606
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722286392118 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722286447606}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722300616918
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.619995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722300565526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722300616918}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722351797067
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722352114571 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722351797067}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722364245598
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722363784862 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722364245598}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722417645922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1_PF (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722417303970 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722417645922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722519014524
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.12001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722519327932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722519014524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722528625141
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722528688437 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722528625141}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722543964061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722543761245 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722543964061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722549025732
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722549084932 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722549025732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722686947178
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722687006634 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722686947178}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722776414410
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1_PF (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722776875018 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722776414410}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722844442310
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722844116486 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722844442310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424722929681522
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.32001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424722929761458 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424722929681522}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723030430295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 138.92001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723030370967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723030430295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723039602740
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723040071924 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723039602740}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723064241651
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723064685875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723064241651}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723074075132
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 129.62001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723073757500 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723074075132}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723075519648
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723075460192 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723075519648}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723142291822
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 114.42001
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 124.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723141822894 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723142291822}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723156839160
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 129.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723156636216 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723156839160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8767424723235213700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8767424721725717737}
+    m_Modifications:
+    - target: {fileID: 189504, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_Name
+      value: FarmPackA_Props_GarlicPlantLvl1 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 120.119995
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.205
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+--- !u!4 &8767424723235547460 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 473280, guid: e5555e0290ad797459687ad08ed3a9a4, type: 3}
+  m_PrefabInstance: {fileID: 8767424723235213700}
+  m_PrefabAsset: {fileID: 0}
