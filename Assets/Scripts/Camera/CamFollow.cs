@@ -5,15 +5,19 @@ using UnityEngine;
 public class CamFollow : MonoBehaviour
 {
     public Transform target;
+    public GameObject UIDataO;
+    UIData uiData;
 
-    void Start()
+    void Awake()
     {
-        
+        uiData = UIDataO.GetComponent<UIData>();
     }
+
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = target.position;
+        if (uiData.isStart)
+            transform.position = target.position;
     }
 }
