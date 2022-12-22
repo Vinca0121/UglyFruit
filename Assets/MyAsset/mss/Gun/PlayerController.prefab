@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eabda559814d30d45a5e245bcd637aed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Enabled: 1
+  Enabled: 0
   Amount: 0.01
   Frequency: 13
   Smooth: 44.7
@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 777424652197044439}
   m_Layer: 0
   m_Name: PlayerController
-  m_TagString: GameController
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -360,9 +360,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Camera: {fileID: 2594097164360232646}
-  walkingSpeed: 10
-  CroughSpeed: 5
-  RuningSpeed: 20
+  walkingSpeed: 8
+  CroughSpeed: 3.5
+  RuningSpeed: 15
   jumpSpeed: 10
   lookSpeed: 2
   lookXLimit: 80

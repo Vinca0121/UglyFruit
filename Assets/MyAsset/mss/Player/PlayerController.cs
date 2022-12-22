@@ -65,9 +65,12 @@ namespace EvolveGames
         float installGravity;
         bool WallDistance;
         [HideInInspector] public float WalkingValue;
-        [HideInInspector] public bool isEnemyInTrigger = false;
         [SerializeField] CameraShake cs;
 
+
+        public int seedCount = 0;
+        public int uglyCount = 0;
+        public int goodCount = 0;
 
         void Start()
         {
@@ -152,16 +155,6 @@ namespace EvolveGames
                 WallDistance = Physics.Raycast(GetComponentInChildren<Camera>().transform.position, transform.TransformDirection(Vector3.forward), out ObjectCheck, HideDistance, LayerMaskInt);
             }
 
-        }
-
-        private void OnTriggerEnter(Collider other)
-        {
-            if (other.gameObject.CompareTag("Enemy")) isEnemyInTrigger = true;
-        }
-       
-        private void OnTriggerExit(Collider other)
-        {
-            if (other.gameObject.CompareTag("Enemy")) isEnemyInTrigger = false;
         }
 
     }
