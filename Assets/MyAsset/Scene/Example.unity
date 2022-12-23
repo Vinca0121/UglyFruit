@@ -9938,7 +9938,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 2aa4ebcefa64bfc48b810c329573ffb9, type: 3}
-    m_FontSize: 25
+    m_FontSize: 30
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
@@ -21666,8 +21666,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: fdad9d952ae84cafb74c63f2e694d042, type: 3}
       propertyPath: m_text
-      value: "1\uB4F1 \uBABB\uB09C\uC774 \uBC30\n2\uB4F1 \uBABB\uB09C\uC774 \uBC14\uB098\uB098\n3\uB4F1
-        \uBABB\uB09C\uC774 \uB2F9\uADFC"
+      value: "1\uB4F1 \uBABB\uB09C\uC774 \uC0AC\uACFC\n2\uB4F1 \uBABB\uB09C\uC774
+        \uAC10\uC790\n3\uB4F1 \uBABB\uB09C\uC774 \uB2F9\uADFC"
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: fdad9d952ae84cafb74c63f2e694d042, type: 3}
       propertyPath: m_fontSize
