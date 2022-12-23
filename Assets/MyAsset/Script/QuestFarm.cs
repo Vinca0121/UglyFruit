@@ -14,10 +14,13 @@ public class QuestFarm : MonoBehaviour
     bool inTriggerPlayer = false;
     int isGrowing = 0;
     PlayerController pc;
-
+    public GameObject sparkEffect;
+    public GameObject paticlepos;
+    GameObject spakling;
     void Start()
     {
         pc = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+        pc.AddTextFunc();
     }
 
     void Update()
@@ -62,18 +65,28 @@ public class QuestFarm : MonoBehaviour
         pc.seedCount--;
         isGrowing = 1;
         interText.gameObject.SetActive(false);
+        spakling = Instantiate(sparkEffect, paticlepos.transform.position, Quaternion.identity) as GameObject;
+        Destroy(spakling, 2f);
+
         growText.text = "자라는 중...";
 
         GrowPlantActive(0);
 
         float time = 0f;
+        bool isOne = false;
 
         while (time <= growTime)
         {
             time += Time.deltaTime;
 
-            if (Mathf.Round(time) == (Mathf.Round(growTime / 2) + 1f))
+            if (Mathf.Round(time) == (Mathf.Round(growTime / 2) + 1f) && !isOne)
+            {
                 GrowPlantActive(1);
+                spakling = Instantiate(sparkEffect, paticlepos.transform.position, Quaternion.identity) as GameObject;
+                isOne = true;
+
+            }
+            Destroy(spakling, 2f);
 
             yield return null;
         }
@@ -81,7 +94,8 @@ public class QuestFarm : MonoBehaviour
         GrowPlantActive(2);
         isGrowing = 2;
         growText.text = "완료";
-
+        spakling = Instantiate(sparkEffect, paticlepos.transform.position, Quaternion.identity) as GameObject;
+        Destroy(spakling, 2f);
         Debug.Log("재배 끝");
     }
 
@@ -115,6 +129,7 @@ public class QuestFarm : MonoBehaviour
             pc.goodCount++;
         }
 
+        pc.AddTextFunc();
         isGrowing = 0;
         yield return null;
     }

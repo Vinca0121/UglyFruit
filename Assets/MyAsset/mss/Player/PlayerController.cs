@@ -71,6 +71,7 @@ namespace EvolveGames
         public int seedCount = 0;
         public int uglyCount = 0;
         public int goodCount = 0;
+        public Text add_text;
 
         void Start()
         {
@@ -157,5 +158,11 @@ namespace EvolveGames
 
         }
 
+        public void AddTextFunc()
+        {
+            add_text.text = $"정상 채소: {goodCount}\n못난이 채소: {uglyCount}";
+        }
+
     }
+    
 }

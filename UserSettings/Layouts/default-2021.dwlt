@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Console
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 130
+  controlID: 21
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 154
+  controlID: 75
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -193,14 +193,14 @@ MonoBehaviour:
     height: 947
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
   - {fileID: 16}
   - {fileID: 15}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 155
+  controlID: 76
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,8 +299,8 @@ MonoBehaviour:
     y: 631
     width: 331
     height: 316
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -1511,7 +1511,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 1628
+    width: 1153
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1742,9 +1742,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -247.92369, y: 7.172026, z: 1.2732073}
+    m_Target: {x: -113.096954, y: 14.795057, z: -197.91008}
     speed: 2
-    m_Value: {x: -247.92369, y: 7.172026, z: 1.2732073}
+    m_Value: {x: -113.096985, y: 14.795061, z: -197.91006}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1791,13 +1791,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.015047201, y: -0.9614998, z: 0.27201095, w: 0.039084528}
+    m_Target: {x: 0.09104171, y: 0.74808294, z: -0.110826865, w: 0.6481105}
     speed: 2
-    m_Value: {x: 0.015045502, y: -0.96139127, z: 0.27198026, w: 0.039080117}
+    m_Value: {x: 0.091030486, y: 0.7479907, z: -0.11081321, w: 0.64803064}
   m_Size:
-    m_Target: 18.35702
+    m_Target: 10
     speed: 2
-    m_Value: 18.35702
+    m_Value: 9.999999
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1944,24 +1944,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 19552}
-      m_SelectedIDs: b8d80500
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 72c90d00
       m_LastClickedID: 0
-      m_ExpandedIDs: d041fbffb2bcfbffbcdafbff5ef5fbff62f5fbff6cf5fbff5e76fcfff21ffdff5a0f0600
+      m_ExpandedIDs: 2868fcff7cecfcffb4edfcffca1a0500
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Petals Prefab 1
+        m_OriginalName: Petals Prefab 1
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -248008
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -2012,22 +2012,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MyAsset/3rdPersonCamera/DemoSceneDependencies/Standard Assets/Characters/ThirdPersonCharacter/Scripts
+    - Packages
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 44
   m_LastFolders:
-  - Assets/MyAsset/3rdPersonCamera/DemoSceneDependencies/Standard Assets/Characters/ThirdPersonCharacter/Scripts
+  - Packages
   m_LastFoldersGridSize: 44
-  m_LastProjectPath: D:\Programing\Unity\UglyFruit
+  m_LastProjectPath: C:\Users\user\Documents\GitHub\UglyFruit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 223}
-    m_SelectedIDs: a6501d00
-    m_LastClickedID: 1921190
-    m_ExpandedIDs: 0000000094d40400acd40400c6d4040002d9050050d90500c4d90500324f1d00424f1d00a8501d00aa501d00ac501d00
+    scrollPos: {x: 0, y: 815}
+    m_SelectedIDs: ffffff7f
+    m_LastClickedID: 2147483647
+    m_ExpandedIDs: 00000000ac070500c4070500080805008270090098700900dabd0d00e0bd0d0072bf0d00bcc10d008cc20d0082c50d00c2d50d00d4d50d0000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2146,7 +2146,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 406
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
