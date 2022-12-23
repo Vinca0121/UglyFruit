@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 public class Teleport_MF : MonoBehaviour
 {
     public int index;
-    int sceneTotalIndex = 2;
     bool playerin = false;
     public Text interTxt;
 
@@ -17,15 +16,22 @@ public class Teleport_MF : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.F))
         {
-            Teleport(index);
+            if (index == 0)
+                Teleport_F();
+            else if (index == 1)
+                Teleport_M();
         }
     }
 
-    public void Teleport(int index)
+    public void Teleport_M()
     {
-        SceneManager.LoadScene(index % (sceneTotalIndex - 1));
+        SceneManager.LoadScene(0);
     }
 
+    public void Teleport_F()
+    {
+        SceneManager.LoadScene(1);
+    }
 
     private void OnTriggerEnter(Collider other)
     {

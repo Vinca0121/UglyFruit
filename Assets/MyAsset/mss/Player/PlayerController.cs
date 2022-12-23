@@ -90,6 +90,17 @@ namespace EvolveGames
 
         void Update()
         {
+            if (Input.GetKey(KeyCode.G))
+            {
+                Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
+            }
+            else if (Input.GetKeyUp(KeyCode.G))
+            {
+                Cursor.lockState = CursorLockMode.Locked;
+                Cursor.visible = false;
+            }
+
             RaycastHit CroughCheck;
             RaycastHit ObjectCheck;
 
